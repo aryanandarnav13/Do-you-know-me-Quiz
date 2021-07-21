@@ -58,6 +58,7 @@ if(score>=3)
   console.log("---------------")
 }
 else
+  
 { console.log(chalk.red("Yet to know me :( "));
   console.log("---------------")
 }
